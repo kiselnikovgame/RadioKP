@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KP.RU</string>
+    <string name="rss_url">https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fradiokp.ru%2Ftaxonomy%2Fterm%2F11973%2Frss%2Fpodcast.xml&amp;api_key=kskahdddd1shja3i8rf0hwtj8bk6ypj7bsqxwfos</string>
+    <string name="channel_name">Воспроизведение подкаста</string>
+    <string name="channel_desc">Воспроизведение подкаста с возможностью паузы/остановки</string>
+    <string name="channel_id">com.kiselnikovgame.radiokp.player</string>
+</resources>
